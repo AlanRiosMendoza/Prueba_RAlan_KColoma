@@ -1,0 +1,25 @@
+Pregunta #1
+Fecha y Hora: 2024-11-07 15:24:06
+IP: 172.29.59.210
+Respuesta: Paris
+
+Pregunta #2
+Fecha y Hora: 2024-11-07 15:24:08
+IP: 172.29.59.210
+Respuesta: marte
+
+Pregunta #3
+Fecha y Hora: 2024-11-07 15:24:10
+IP: 172.29.59.210
+Respuesta: agua
+
+Pregunta #4
+Fecha y Hora: 2024-11-07 15:24:15
+IP: 172.29.59.210
+Respuesta: nilo
+
+Pregunta #5
+Fecha y Hora: 2024-11-07 15:24:19
+IP: 172.29.59.210
+Respuesta: luna
+
